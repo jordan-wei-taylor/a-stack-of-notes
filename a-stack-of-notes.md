@@ -9,4 +9,4 @@ Table of Contents
 3. [Feature Selection](a-stack-of-notes/feature-selection.md)
 4. [Monte-Carlo Markov-Chain](a-stack-of-notes/monte-carlo-markov-chain.md)
 5. [Projects](a-stack-of-notes/projects)
-6. [Theories](a-stack-of-notes/theories)
+6. [Theories](a-stack-of-notes/theories.md)

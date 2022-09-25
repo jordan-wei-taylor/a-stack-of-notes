@@ -7,8 +7,12 @@
         "id": "6ba62141be855861",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "a-stack-of-notes.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "a-stack-of-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "a-stack-of-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "a-stack-of-notes.md"
+              }
             }
           }
         ]
@@ -122,6 +130,8 @@
   },
   "active": "6ba62141be855861",
   "lastOpenFiles": [
+    "a-stack-of-notes/theories.md",
+    "a-stack-of-notes.md",
     "a-stack-of-notes/a-stack-of-notes.md",
     "a-stack-of-notes/a-stack-of-notes/theories.md",
     "a-stack-of-notes/a-stack-of-notes/theories/descent-methods.md",
@@ -129,8 +139,6 @@
     "a-stack-of-notes/a-stack-of-notes/optimisation.md",
     "a-stack-of-notes/a-stack-of-notes/feature-selection.md",
     "a-stack-of-notes/a-stack-of-notes/dimensionality-reduction.md",
-    "a-stack-of-notes/a-stack-of-notes/feature-selection/fisher-score.md",
-    "a-stack-of-notes/a-stack-of-notes/dimensionality-reduction/kernel-discriminant-analysis.md",
-    "a-stack-of-notes/a-stack-of-notes/dimensionality-reduction/kernel-principle-component-analysis.md"
+    "a-stack-of-notes/a-stack-of-notes/feature-selection/fisher-score.md"
   ]
 }
