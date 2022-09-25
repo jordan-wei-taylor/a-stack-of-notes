@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "0ae6bbd060ddd42c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ba62141be855861",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "685febb7aeb72500",
+    "type": "split",
+    "children": [
+      {
+        "id": "47d6fb0ad6b77b02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6ddb0ea8fe76e6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3765f9e34520bae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d3287f67eb9f555",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "817e347257fc1c13",
+    "type": "split",
+    "children": [
+      {
+        "id": "4057b28b617f0f7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9be319e62d306340",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71cdcefe30f7494c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "488a9d1a6111cf5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "31ee7b03cee23a6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6ba62141be855861",
+  "lastOpenFiles": [
+    "a-stack-of-notes/a-stack-of-notes.md",
+    "a-stack-of-notes/a-stack-of-notes/theories.md",
+    "a-stack-of-notes/a-stack-of-notes/theories/descent-methods.md",
+    "a-stack-of-notes/descent-methods.md",
+    "a-stack-of-notes/a-stack-of-notes/optimisation.md",
+    "a-stack-of-notes/a-stack-of-notes/feature-selection.md",
+    "a-stack-of-notes/a-stack-of-notes/dimensionality-reduction.md",
+    "a-stack-of-notes/a-stack-of-notes/feature-selection/fisher-score.md",
+    "a-stack-of-notes/a-stack-of-notes/dimensionality-reduction/kernel-discriminant-analysis.md",
+    "a-stack-of-notes/a-stack-of-notes/dimensionality-reduction/kernel-principle-component-analysis.md"
+  ]
+}
