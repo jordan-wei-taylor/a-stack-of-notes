@@ -1,4 +1,7 @@
 {
-  "cssTheme": "Deep Work",
-  "theme": "moonstone"
+  "cssTheme": "Primary",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "style"
+  ]
 }

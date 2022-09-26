@@ -1,4 +1,4 @@
-[A Stack of Notes](a-stack-of-notes.md)
+[A Stack of Notes](a-stack-of-notes) / [Monte-Carlo Markov-Chain](monte-carlo-markov-chain.md)
 
 
 # Monte-Carlo Markov-Chain
@@ -9,8 +9,7 @@ In this section, we talk about four popular Monte-Carlo Markov Chain (MCMC) meth
 
 1. [metropolis](metropolis.md)
 2. [metropolis-hastings](metropolis-hastings.md)
-3. [gibbs](gibbs.md)
-4. [metropolis-hastings-gibbs](metropolis-hastings-gibbs.md)
+3. [gibbs-sampling](gibbs-sampling.md)
 
 
 
