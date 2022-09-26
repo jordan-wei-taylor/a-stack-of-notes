@@ -1,4 +1,4 @@
-[A Stack of Notes](a-stack-of-notes) / [Machine Learning](a-stack-of-notes/machine-learning.md) / [Linear Regression](linear-regression)
+[A Stack of Notes](../../a-stack-of-notes.md) / [Machine Learning](../machine-learning.md) / [Linear Regression](linear-regression.md)
 
 
 # Linear Regression
@@ -13,7 +13,7 @@ $$
 $$
 where $w_0$ is the intercept, $\mathbf{w}\in\mathbb{R}^m$ is a vector of linear coefficients, and  $\epsilon_i$ is a random error term.
 
-![](demo.png)
+![](../../_assets/demo.png)
 
-[Bayesian Linear Regression](bayesian-linear-regression)
-[Sparse Bayesian Linear Regression](sparse-bayesian-linear-regression)
+[Bayesian Linear Regression](linear-regression/bayesian-linear-regression.md)
+[Sparse Bayesian Linear Regression](linear-regression/sparse-bayesian-linear-regression.md)

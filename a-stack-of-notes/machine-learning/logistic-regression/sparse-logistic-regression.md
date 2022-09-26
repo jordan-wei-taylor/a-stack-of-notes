@@ -1,1 +1,1 @@
-[A Stack of Notes](a-stack-of-notes) / [Machine Learning](a-stack-of-notes/machine-learning.md) / [Logistic Regression](logistic-regression) / [Sparse Logistic Regression](sparse-logistic-regression)
+[A Stack of Notes](../../../a-stack-of-notes) / [Machine Learning](../../machine-learning.md) / [Logistic Regression](../logistic-regression.md) / [Sparse Logistic Regression](sparse-logistic-regression.md)

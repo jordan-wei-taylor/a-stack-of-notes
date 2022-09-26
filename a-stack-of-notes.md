@@ -1,4 +1,4 @@
-[A Stack of Notes](a-stack-of-notes)
+[A Stack of Notes](a-stack-of-notes.md)
 
 # A Stack of Notes
 
@@ -8,29 +8,29 @@ PhD related Table of Contents
 
 + [Pólya-Gamma Primer](a-stack-of-notes/polya-gamma-primer.md) \**
 + [Monte-Carlo Markov-Chain](a-stack-of-notes/monte-carlo-markov-chain.md)
-	+ [Metropolis](metropolis)
-	+ [Metropolis-Hastings](metropolis-hastings)
-	+ [Gibbs Sampling](gibbs-sampling)
-		+ [Block Gibbs Samping](block-gibbs-sampling.md)
-		+ [Metropolis within Gibbs Sampling](metropolis-within-gibbs-sampling.md)
-		+ [Adaptive Gibbs Sampling](adaptive-gibbs-sampling.md) \*
-		+ [Linear Regression Example](gibbs-linear-regression-example.md)
-		+ [Logistic Regression Example](gibbs-logistic-regression-example.md) \**
-+ [Machine Learning](a-stack-of-notes/machine-learning)
-	+ [Linear Regression](linear-regression)
-		+ [Bayesian Linear Regression](bayesian-linear-regression.md)
-		+ [Sparse Bayesian Linear Regression](sparse-bayesian-linear-regression.md)
-	+ [Logistic Regression](logistic-regression)
-		+ [Sparse Logistic Regression](sparse-logistic-regression.md) \* \**
-		+ [Sparse Bayesian Logistic Regression](sparse-bayesian-logistic-regression.md) \* \**
+	+ [Metropolis](a-stack-of-notes/monte-carlo-markov-chain/metropolis.md)
+	+ [Metropolis-Hastings](a-stack-of-notes/monte-carlo-markov-chain/metropolis-hastings.md)
+	+ [Gibbs Sampling](a-stack-of-notes/monte-carlo-markov-chain/gibbs-sampling.md)
+		+ [Block Gibbs Samping](a-stack-of-notes/monte-carlo-markov-chain/gibbs-sampling/block-gibbs-sampling.md)
+		+ [Metropolis within Gibbs Sampling](a-stack-of-notes/monte-carlo-markov-chain/gibbs-sampling/metropolis-within-gibbs-sampling.md)
+		+ [Adaptive Gibbs Sampling](a-stack-of-notes/monte-carlo-markov-chain/gibbs-sampling/adaptive-gibbs-sampling.md) \*
+		+ [Linear Regression Example](a-stack-of-notes/monte-carlo-markov-chain/gibbs-sampling/gibbs-linear-regression-example.md)
+		+ [Logistic Regression Example](a-stack-of-notes/monte-carlo-markov-chain/gibbs-sampling/gibbs-logistic-regression-example.md) \**
++ [Machine Learning](a-stack-of-notes/machine-learning.md)
+	+ [Linear Regression](a-stack-of-notes/machine-learning/linear-regression.md)
+		+ [Bayesian Linear Regression](a-stack-of-notes/machine-learning/linear-regression/bayesian-linear-regression.md)
+		+ [Sparse Bayesian Linear Regression](a-stack-of-notes/machine-learning/linear-regression/sparse-bayesian-linear-regression.md)
+	+ [Logistic Regression](a-stack-of-notes/machine-learning/logistic-regression.md)
+		+ [Sparse Logistic Regression](a-stack-of-notes/machine-learning/logistic-regression/sparse-logistic-regression.md) \* \**
+		+ [Sparse Bayesian Logistic Regression](a-stack-of-notes/machine-learning/logistic-regression/sparse-bayesian-logistic-regression.md) \* \**
 + [Feature Selection](a-stack-of-notes/feature-selection.md)
-	+ [Univariate Feature Selection](univariate-feature-selection)
-		+ [Fisher Score](fisher-score)
-		+ [Linear Disriminant Analysis](linear-discriminant-analysis)
-			+ [Sparse Linear Discriminant Analysis](sparse-linear-discriminant-analysis.md) \*
-		+ [Generalised Discriminant Analysis](generalised-discriminant-analysis)
-			+ [Sparse Generalised Discriminant Analysis](sparse-generalised-discriminant-analysis.md) \*
-	+ [String Based Screening](string-based-screening.md) \*
+	+ [Univariate Feature Selection](a-stack-of-notes/feature-selection/univariate-feature-selection.md)
+		+ [Fisher Score](a-stack-of-notes/feature-selection/univariate-feature-selection/fisher-score.md)
+		+ [Linear Disriminant Analysis](a-stack-of-notes/feature-selection/univariate-feature-selection/linear-discriminant-analysis.md)
+			+ [Sparse Linear Discriminant Analysis](a-stack-of-notes/feature-selection/univariate-feature-selection/linear-discriminant-analysis/sparse-linear-discriminant-analysis.md) \*
+		+ [Generalised Discriminant Analysis](a-stack-of-notes/feature-selection/univariate-feature-selection/generalised-discriminant-analysis.md)
+			+ [Sparse Generalised Discriminant Analysis](a-stack-of-notes/feature-selection/univariate-feature-selection/generalised-discriminant-analysis/sparse-generalised-discriminant-analysis.md) \*
+	+ [String Based Screening](a-stack-of-notes/feature-selection/string-based-screening.md) \*
 
 
 Miscellaneous Table of Contents

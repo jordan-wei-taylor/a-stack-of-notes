@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "a-stack-of-notes/polya-gamma-primer.md",
+            "file": "a-stack-of-notes/monte-carlo-markov-chain.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "a-stack-of-notes/polya-gamma-primer.md",
+            "file": "a-stack-of-notes/monte-carlo-markov-chain.md",
             "mode": "preview",
             "source": true
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a-stack-of-notes/polya-gamma-primer.md",
+                "file": "a-stack-of-notes/monte-carlo-markov-chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a-stack-of-notes/polya-gamma-primer.md",
+                "file": "a-stack-of-notes/monte-carlo-markov-chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a-stack-of-notes/polya-gamma-primer.md"
+                "file": "a-stack-of-notes/monte-carlo-markov-chain.md"
               }
             }
           }
@@ -143,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2caa62906f08b8ce",
+  "active": "6ba62141be855861",
   "lastOpenFiles": [
-    "a-stack-of-notes.md",
-    "a-stack-of-notes/polya-gamma-primer.md",
-    "Miscellaneous/descent-methods.md",
-    "Miscellaneous/descent-methods/steepest-descent.md",
-    "Miscellaneous/descent-methods/steepest-descent/determining-the-optimal-learning-rate.md",
-    "Miscellaneous/descent-methods/steepest-descent/upper-bound-convergence-rate.md",
-    "Miscellaneous/descent-methods/conjugate-gradient-descent.md",
     "a-stack-of-notes/machine-learning.md",
     "a-stack-of-notes/feature-selection.md",
-    "a-stack-of-notes/feature-selection/string-based-screening.md"
+    "a-stack-of-notes/monte-carlo-markov-chain/gibbs-sampling.md",
+    "a-stack-of-notes/feature-selection/univariate-feature-selection/generalised-discriminant-analysis.md",
+    "a-stack-of-notes/feature-selection/univariate-feature-selection/linear-discriminant-analysis.md",
+    "a-stack-of-notes/feature-selection/univariate-feature-selection.md",
+    "a-stack-of-notes/machine-learning/logistic-regression.md",
+    "a-stack-of-notes/machine-learning/linear-regression.md",
+    "a-stack-of-notes.md",
+    "a-stack-of-notes/machine-learning/logistic-regression/sparse-bayesian-logistic-regression.md"
   ]
 }
