@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "a-stack-of-notes.md",
+            "file": "a-stack-of-notes/polya-gamma-primer.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "a-stack-of-notes.md",
+            "file": "a-stack-of-notes/polya-gamma-primer.md",
             "mode": "preview",
             "source": true
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a-stack-of-notes.md",
+                "file": "a-stack-of-notes/polya-gamma-primer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a-stack-of-notes.md",
+                "file": "a-stack-of-notes/polya-gamma-primer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a-stack-of-notes.md"
+                "file": "a-stack-of-notes/polya-gamma-primer.md"
               }
             }
           }
@@ -145,8 +145,8 @@
   },
   "active": "2caa62906f08b8ce",
   "lastOpenFiles": [
-    "a-stack-of-notes/polya-gamma-primer.md",
     "a-stack-of-notes.md",
+    "a-stack-of-notes/polya-gamma-primer.md",
     "Miscellaneous/descent-methods.md",
     "Miscellaneous/descent-methods/steepest-descent.md",
     "Miscellaneous/descent-methods/steepest-descent/determining-the-optimal-learning-rate.md",

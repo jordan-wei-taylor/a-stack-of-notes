@@ -1,4 +1,4 @@
-[A Stack of Notes](a-stack-of-notes) / [Pólya Gamma Primer](polya-gamma-primer)
+[A Stack of Notes](../a-stack-of-notes) / [Pólya Gamma Primer](polya-gamma-primer)
 
 
 # Pólya-Gamma Primer
@@ -10,11 +10,13 @@
 ## Bernoulli Liklihood
 
 Consider the task of [Logistic Regresson](logistic-regression) where we have a single response target i.e. belonging or not belonging to a class. We would assume a Bernoulli likelihood with parameter $p_i$ which has the form
+
 $$
-\begin{equation}
-	\mathcal{L}(\mathbf{p}) \propto \prod_{i = 1}^n p_i^{y_i} (1 - p_i)^{1 - y_i}, \tag{1}
-\end{equation}
+\begin{flalign}
+	&& \mathcal{L}(\mathbf{p}) \propto \prod_{i = 1}^n p_i^{y_i} (1 - p_i)^{1 - y_i}, &&(1)
+\end{flalign}
 $$
+
 where $\mathbf{p}\in[0,1]^n$, $\mathbf{y}\in\{0,\ 1\}$, and $n$ being the number of data points. We further assume that the log-odds is some linear function with our design matrix
 
 $$
