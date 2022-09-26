@@ -1,4 +1,4 @@
-[A Stack of Notes](../a-stack-of-notes.md) / [Pólya Gamma Primer](../polya-gamma-primer.md)
+[A Stack of Notes](../a-stack-of-notes.md) / [Pólya Gamma Primer](polya-gamma-primer.md)
 
 
 # Pólya-Gamma Primer

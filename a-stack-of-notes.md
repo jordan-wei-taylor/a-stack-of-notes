@@ -6,7 +6,7 @@ In this project, I document some of my research journey through my time at the U
 
 PhD related Table of Contents
 
-+ [Pólya-Gamma Primer](polya-gamma-primer.md) \**
++ [Pólya-Gamma Primer](a-stack-of-notes/polya-gamma-primer.md) \**
 + [Monte-Carlo Markov-Chain](a-stack-of-notes/monte-carlo-markov-chain.md)
 	+ [Metropolis](metropolis)
 	+ [Metropolis-Hastings](metropolis-hastings)
