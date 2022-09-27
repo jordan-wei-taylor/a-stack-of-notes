@@ -9,7 +9,7 @@
 
 ## Bernoulli Liklihood
 
-Consider the task of [Logistic Regresson](../machine-learning/logistic-regression.md) where we have a single response target i.e. belonging or not belonging to a class. We would assume a Bernoulli likelihood with parameter $p_i$ which has the form
+Consider the task of [Logistic Regresson](machine-learning/logistic-regression.md) where we have a single response target i.e. belonging or not belonging to a class. We would assume a Bernoulli likelihood with parameter $p_i$ which has the form
 
 $$
 \begin{flalign}
@@ -39,7 +39,7 @@ $$
 
 ^bernoulli-likelihood
 
-Due to the above expression, Bayesian inference for [Logistic Regression](../machine-learning/logistic-regression.md) is intractable [(Bishop, 2006)](#^bishop).  This is because computing the evidence term would require normalising the product of a (Gaussian) prior on $\boldsymbol{\beta}$ times by the likelihood function in [Eq. (4)](#^bernoulli-likelihood). However, [Polson et al, (2013)](#^polson) introduced a new method called *Pólya-Gamma Augmentation* that allows for the construction of simple [Gibbs](../monte-carlo-markov-chain/gibbs-sampling.md) samplers for these models.
+Due to the above expression, Bayesian inference for [Logistic Regression](machine-learning/logistic-regression.md) is intractable [(Bishop, 2006)](#^bishop).  This is because computing the evidence term would require normalising the product of a (Gaussian) prior on $\boldsymbol{\beta}$ times by the likelihood function in [Eq. (4)](#^bernoulli-likelihood). However, [Polson et al, (2013)](#^polson) introduced a new method called *Pólya-Gamma Augmentation* that allows for the construction of simple [Gibbs](monte-carlo-markov-chain/gibbs-sampling.md) samplers for these models.
 
 <br><br>
 
