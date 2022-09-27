@@ -9,25 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "miscellaneous/dimensionality-reduction.md",
+            "file": "a-stack-of-notes/miscellaneous/descent-methods.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "1de1d54404b26bed"
+        "group": "0c27521003172d4f"
       },
       {
-        "id": "2caa62906f08b8ce",
+        "id": "19e747d4b463b1e7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "miscellaneous/dimensionality-reduction.md",
+            "file": "a-stack-of-notes/miscellaneous/descent-methods.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "1de1d54404b26bed"
+        "group": "0c27521003172d4f"
       }
     ],
     "direction": "vertical"
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#descent-methods",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "miscellaneous/dimensionality-reduction.md",
+                "file": "a-stack-of-notes/miscellaneous/descent-methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "miscellaneous/dimensionality-reduction.md",
+                "file": "a-stack-of-notes/miscellaneous/descent-methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "miscellaneous/dimensionality-reduction.md"
+                "file": "a-stack-of-notes/miscellaneous/descent-methods.md"
               }
             }
           }
@@ -143,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ba62141be855861",
+  "active": "19e747d4b463b1e7",
   "lastOpenFiles": [
-    "miscellaneous/distributional-reinforcement-learning.md",
-    "miscellaneous/descent-methods.md",
-    "miscellaneous/dimensionality-reduction/principal-component-analysis.md",
-    "miscellaneous/dimensionality-reduction/kernel-principal-component-analysis.md",
-    "miscellaneous/descent-methods/steepest-descent.md",
-    "miscellaneous/descent-methods/conjugate-gradient-descent.md",
-    "miscellaneous/reinforcement-learning-primer.md",
-    "miscellaneous/orthogonal-regularisation-on-features-within-a-neural-network.md",
-    "miscellaneous/laplacian-framework-for-reinforcement-learning.md",
-    "miscellaneous/expectation-maximisation.md"
+    "a-stack-of-notes/miscellaneous/descent-methods/steepest-descent.md",
+    "a-stack-of-notes/miscellaneous/descent-methods/descent-comparison-example.md",
+    "a-stack-of-notes/miscellaneous/descent-methods/conjugate-gradient-descent.md",
+    "a-stack-of-notes/miscellaneous/descent-methods.md",
+    "a-stack-of-notes/miscellaneous/descent-methods/steepest-descent/determining-the-optimal-learning-rate.md",
+    "a-stack-of-notes/miscellaneous/descent-methods/steepest-descent/upper-bound-convergence-rate.md",
+    "a-stack-of-notes.md",
+    "a-stack-of-notes/monte-carlo-markov-chain.md",
+    "a-stack-of-notes/machine-learning/linear-regression.md",
+    "a-stack-of-notes/_assets/descent-methods/comparison.png"
   ]
 }

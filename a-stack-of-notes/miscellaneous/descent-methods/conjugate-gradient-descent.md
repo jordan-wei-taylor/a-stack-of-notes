@@ -1,4 +1,4 @@
-[Descent Methods](../descent-methods.md)
+[Descent Methods](descent-methods.md)
 
 ### Conjugate Gradient Descent
 #conjugate-gradient-descent
@@ -88,6 +88,6 @@ $$
 	&(2) &\mathbf{p}_k &= \mathbf{r}_{k - 1} - \beta_{k - 1}\mathbf{p}_{k - 1}\\
 	&(3) &\alpha_k &= ||\mathbf{r}_{k - 1}||_2^2\ /\ ||\mathbf{p}_k||_\mathbf{A}^2\\
 	&(4) &\mathbf{x}_k &= \mathbf{x}_k + \alpha_k\mathbf{p}_k\\
-	&(5) &\text{check } &\text{for convergence}
+	&(5) &\text{terminate } &\text{if converged}
  \end{flalign}
 $$
