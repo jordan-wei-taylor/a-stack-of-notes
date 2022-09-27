@@ -1,4 +1,4 @@
-[Descent Methods](descent-methods.md)
+[Descent Methods](../descent-methods.md)
 
 ### Conjugate Gradient Descent
 #conjugate-gradient-descent

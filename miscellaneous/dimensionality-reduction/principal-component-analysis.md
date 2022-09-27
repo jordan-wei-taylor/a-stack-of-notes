@@ -1,1 +1,1 @@
-[Dimensionality Reduction](dimensionality-reduction.md)
+[Dimensionality Reduction](../dimensionality-reduction.md)
