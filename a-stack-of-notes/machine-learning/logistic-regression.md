@@ -2,6 +2,6 @@
 
 # Logistic Regression
 
-[Sparse Logistic Regression](logistic-regression/sparse-logistic-regression)
-[Sparse Bayesian Logistic Regression](logistic-regression/sparse-bayesian-logistic-regression)
+[Sparse Logistic Regression](logistic-regression/sparse-logistic-regression.md)
+[Sparse Bayesian Logistic Regression](logistic-regression/sparse-bayesian-logistic-regression.md)
 

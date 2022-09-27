@@ -1,4 +1,4 @@
-[Steepest Descent](steepest-descent.md)
+[Steepest Descent](../steepest-descent.md)
 
 ### Determining the Optimal Learning Rate
 

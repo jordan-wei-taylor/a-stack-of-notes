@@ -1,4 +1,4 @@
-[Theories](../theories.md)
+[A Stack of Notes](../a-stack-of-notes.md)
 
 # Descent Methods
 
@@ -13,7 +13,7 @@ $$
 
 ^l2-loss
 
-where $\mathbf{r}$ is known as the residual error vector and is defined as $\mathbf{r}(\mathbf{x}) := \mathbf{Ax} - \mathbf{b}$. We constrain ourselves against computing this quantity using the analytic solution as described in [Orinary Least-Squares Regression](linear-regression.md) and instead, seek an iterative method that updates our $k$-th guess of the true solution. These class of methods are commonly known as *descent* methods as they all consider the gradient of [Eq. (1)](#^l2-loss) when minimising it. For generality, they all have the following update rule:
+where $\mathbf{r}$ is known as the residual error vector and is defined as $\mathbf{r}(\mathbf{x}) := \mathbf{Ax} - \mathbf{b}$. We constrain ourselves against computing this quantity using the analytic solution as described in [Orinary Least-Squares Regression](../a-stack-of-notes/machine-learning/linear-regression.md) and instead, seek an iterative method that updates our $k$-th guess of the true solution. These class of methods are commonly known as *descent* methods as they all consider the gradient of [Eq. (1)](#^l2-loss) when minimising it. For generality, they all have the following update rule:
 $$\begin{equation}
 	\mathbf{x}_k = \mathbf{x}_{k-1} + \alpha_k\mathbf{p}_k, \tag{2}
 \end{equation}$$
@@ -29,6 +29,6 @@ where $\alpha_k$ is known as the *learning rate* or *step size* and $\mathbf{p}_
 
 We now consider the most basic descent method which is then used as a foundation for many more sophisticated descent methods.
 
-1.  [Steepest Descent](steepest-descent.md)
-2.  [Conjugate Gradient Descent](conjugate-gradient-descent.md)
+1.  [Steepest Descent](descent-methods/steepest-descent.md)
+2.  [Conjugate Gradient Descent](descent-methods/conjugate-gradient-descent.md)
 

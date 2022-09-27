@@ -1,4 +1,4 @@
-[Descent Methods](descent-methods.md)
+[Descent Methods](../descent-methods.md)
 
 ## Steepest Descent
 
@@ -27,7 +27,7 @@ $$
 
 ^steepest-descent-algorithm
 
-A common questions is how to determine the optimal learning rate?  From [Determining the Optimal Learning Rate](determining-the-optimal-learning-rate.md), we can choose the optimal learning rate at every iteration of the [Steepest Descent Algorithm](#^steepest-descent-algorithm). 
+A common questions is how to determine the optimal learning rate?  From [Determining the Optimal Learning Rate](steepest-descent/determining-the-optimal-learning-rate.md), we can choose the optimal learning rate at every iteration of the [Steepest Descent Algorithm](#^steepest-descent-algorithm). 
 
 
 ### Steepest Descent with Optimal Learning Rate Algorithm
