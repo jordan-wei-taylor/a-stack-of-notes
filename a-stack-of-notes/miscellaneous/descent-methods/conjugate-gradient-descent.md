@@ -1,4 +1,4 @@
-[Descent Methods](descent-methods.md)
+[A Stack of Notes](../../../a-stack-of-notes.md) / [Miscellaneous](../../miscellaneous.md)  / [Descent Methods](../descent-methods.md)
 
 ### Conjugate Gradient Descent
 #conjugate-gradient-descent

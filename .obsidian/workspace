@@ -9,25 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "a-stack-of-notes/miscellaneous/descent-methods/descent-comparison-example.md",
+            "file": "a-stack-of-notes.md",
             "mode": "source",
             "source": true
           }
-        },
-        "group": "0c27521003172d4f"
-      },
-      {
-        "id": "19e747d4b463b1e7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "a-stack-of-notes/miscellaneous/descent-methods/descent-comparison-example.md",
-            "mode": "preview",
-            "source": true
-          }
-        },
-        "group": "0c27521003172d4f"
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#descent-methods",
+                "query": "linear",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a-stack-of-notes/miscellaneous/descent-methods/descent-comparison-example.md",
+                "file": "a-stack-of-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a-stack-of-notes/miscellaneous/descent-methods/descent-comparison-example.md",
+                "file": "a-stack-of-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a-stack-of-notes/miscellaneous/descent-methods/descent-comparison-example.md"
+                "file": "a-stack-of-notes.md"
               }
             }
           }
@@ -143,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19e747d4b463b1e7",
+  "active": "6ba62141be855861",
   "lastOpenFiles": [
-    "a-stack-of-notes/miscellaneous/descent-methods.md",
-    "a-stack-of-notes/feature-selection.md",
-    "a-stack-of-notes/miscellaneous/descent-methods/steepest-descent.md",
-    "a-stack-of-notes/miscellaneous/descent-methods/descent-comparison-example.md",
-    "a-stack-of-notes/miscellaneous/descent-methods/conjugate-gradient-descent.md",
-    "a-stack-of-notes/miscellaneous/descent-methods/steepest-descent/determining-the-optimal-learning-rate.md",
-    "a-stack-of-notes/miscellaneous/descent-methods/steepest-descent/upper-bound-convergence-rate.md",
+    "a-stack-of-notes/miscellaneous.md",
     "a-stack-of-notes.md",
-    "a-stack-of-notes/monte-carlo-markov-chain.md",
-    "a-stack-of-notes/machine-learning/linear-regression.md"
+    "a-stack-of-notes/miscellaneous/descent-methods.md",
+    "a-stack-of-notes/machine-learning/linear-regression.md",
+    "a-stack-of-notes/machine-learning/linear-regression/bayesian-linear-regression.md",
+    "a-stack-of-notes/polya-gamma-primer.md",
+    "a-stack-of-notes/miscellaneous/descent-methods/conjugate-gradient-descent.md",
+    "a-stack-of-notes/miscellaneous/descent-methods/descent-comparison-example.md",
+    "a-stack-of-notes/miscellaneous/descent-methods/steepest-descent/determining-the-optimal-learning-rate.md",
+    "a-stack-of-notes/miscellaneous/descent-methods/steepest-descent.md"
   ]
 }

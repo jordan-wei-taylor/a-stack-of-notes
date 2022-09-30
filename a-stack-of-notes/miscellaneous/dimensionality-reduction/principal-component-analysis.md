@@ -1,1 +1,1 @@
-[Dimensionality Reduction](dimensionality-reduction.md)
+[A Stack of Notes](../../../a-stack-of-notes.md) / [Miscellaneous](../../miscellaneous.md)  / [Dimensionality Reduction](../dimensionality-reduction.md)

@@ -1,4 +1,5 @@
-[Determing the Optimal Learning Rate](determining-the-optimal-learning-rate.md)
+[A Stack of Notes](../../../../a-stack-of-notes.md) / [Miscellaneous](../../../miscellaneous.md)  / [Descent Methods](../../descent-methods.md) / [Steepest Descent](../steepest-descent.md)
+
 
 # Upper Convergence Bound
 

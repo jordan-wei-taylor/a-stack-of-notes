@@ -1,4 +1,4 @@
-[Steepest Descent](steepest-descent.md)
+[A Stack of Notes](../../../../a-stack-of-notes.md) / [Miscellaneous](../../../miscellaneous.md)  / [Descent Methods](../../descent-methods.md) / [Steepest Descent](../steepest-descent.md)
 
 ### Determining the Optimal Learning Rate
 

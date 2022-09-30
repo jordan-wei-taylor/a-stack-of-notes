@@ -1,1 +1,1 @@
-[A Stack of Notes](a-stack-of-notes.md)
+[A Stack of Notes](../../a-stack-of-notes.md) / [Miscellaneous](../miscellaneous.md) 

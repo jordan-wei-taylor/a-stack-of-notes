@@ -31,21 +31,19 @@ PhD related Table of Contents
 		+ [Generalised Discriminant Analysis](a-stack-of-notes/feature-selection/univariate-feature-selection/generalised-discriminant-analysis.md)
 			+ [Sparse Generalised Discriminant Analysis](a-stack-of-notes/feature-selection/univariate-feature-selection/generalised-discriminant-analysis/sparse-generalised-discriminant-analysis.md) \*
 	+ [String Based Screening](a-stack-of-notes/feature-selection/string-based-screening.md) \*
-
-
-Miscellaneous Table of Contents
-
-+ [Descent Methods](a-stack-of-notes/miscellaneous/descent-methods.md)
-	+ [Steepest Descent](a-stack-of-notes/miscellaneous/descent-methods/steepest-descent.md)
-		+ [Determining the Optimal Learning Rate](miscellaneous/descent-methods/steepest-descent/determining-the-optimal-learning-rate.md)
-		+ [Upper Bound Convergence Rate](a-stack-of-notes/miscellaneous/descent-methods/steepest-descent/upper-bound-convergence-rate.md)
-	+ [Conjugate Gradient Descent](a-stack-of-notes/miscellaneous/descent-methods/conjugate-gradient-descent.md)
-+ [Dimensionality Reduction](a-stack-of-notes/miscellaneous/dimensionality-reduction.md)
-	+ [Principal Component Analysis](a-stack-of-notes/miscellaneous/dimensionality-reduction/principal-component-analysis.md)
-	+ [Kernel Principle Component Analysis](a-stack-of-notes/miscellaneous/dimensionality-reduction/kernel-principal-component-analysis.md)
-+ [Evidence Lower Bound](a-stack-of-notes/miscellaneous/evidence-lower-bound.md)
-+ [Expectation-Maximisation](a-stack-of-notes/miscellaneous/expectation-maximisation.md)
-+ [Orthogonal Regularisation on Features within a Neural Network](a-stack-of-notes/miscellaneous/orthogonal-regularisation-on-features-within-a-neural-network.md)
-+ [GloVe](a-stack-of-notes/miscellaneous/glove.md)
-+ [Reinforcement Learning Primer](a-stack-of-notes/miscellaneous/reinforcement-learning-primer.md)
-+ [Laplacian Framework for Reinforcement Learning](a-stack-of-notes/miscellaneous/laplacian-framework-for-reinforcement-learning.md)
++ [Miscellaneous](a-stack-of-notes/miscellaneous.md)
+	+ [Descent Methods](a-stack-of-notes/miscellaneous/descent-methods.md)
+		+ [Steepest Descent](a-stack-of-notes/miscellaneous/descent-methods/steepest-descent.md)
+			+ [Determining the Optimal Learning Rate](a-stack-of-notes/miscellaneous/descent-methods/steepest-descent/determining-the-optimal-learning-rate.md)
+			+ [Upper Bound Convergence Rate](a-stack-of-notes/miscellaneous/descent-methods/steepest-descent/upper-bound-convergence-rate.md)
+		+ [Conjugate Gradient Descent](a-stack-of-notes/miscellaneous/descent-methods/conjugate-gradient-descent.md)
+		+ [Descent Comparison Example](a-stack-of-notes/miscellaneous/descent-methods/descent-comparison-example.md)
+	+ [Dimensionality Reduction](a-stack-of-notes/miscellaneous/dimensionality-reduction.md)
+		+ [Principal Component Analysis](a-stack-of-notes/miscellaneous/dimensionality-reduction/principal-component-analysis.md)
+		+ [Kernel Principle Component Analysis](a-stack-of-notes/miscellaneous/dimensionality-reduction/kernel-principal-component-analysis.md)
+	+ [Evidence Lower Bound](a-stack-of-notes/miscellaneous/evidence-lower-bound.md)
+	+ [Expectation-Maximisation](a-stack-of-notes/miscellaneous/expectation-maximisation.md)
+	+ [Orthogonal Regularisation on Features within a Neural Network](a-stack-of-notes/miscellaneous/orthogonal-regularisation-on-features-within-a-neural-network.md)
+	+ [GloVe](a-stack-of-notes/miscellaneous/glove.md)
+	+ [Reinforcement Learning Primer](a-stack-of-notes/miscellaneous/reinforcement-learning-primer.md)
+	+ [Laplacian Framework for Reinforcement Learning](a-stack-of-notes/miscellaneous/laplacian-framework-for-reinforcement-learning.md)
